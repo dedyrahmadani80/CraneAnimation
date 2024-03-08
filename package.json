@@ -1,0 +1,26 @@
+{
+"name": "craneanimation-dedyrahmadani",
+"version": "1.0.0",
+"description": "This project creates a simple animation effect of cranes flying across a canvas using JavaScript. The animation simulates the graceful movement of origami cranes.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/dedyrahmadani80/CraneAnimation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "dedyrahmadani80",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
